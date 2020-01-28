@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+  padding: 0;
+}
+
+header {
+	color: black;
+	background-color: white;
+}
+
+body{
+	background-color: #43a047;
+  padding-bottom: 140px;
+}
+
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #76d275;
+  color: black;
+  text-align: center;
+  height: 40px;
+}
+
+.ir-arriba{
+  display: none;
+  padding: 20px;
+  background-color: #005005;
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+  position: fixed;
+  bottom: 60px;
+  right: 20px;
+}
+
+#divisionA{
+  margin: 0;
+  background-color: #66bb6a;
+  text-align: justify;
+}
+
+#divisionB{
+  margin: 0;
+  background-color: #4caf50;
+  text-align: justify;
+}
